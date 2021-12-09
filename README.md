@@ -1,6 +1,6 @@
 # Breakfast
 Well you see good sir I haven't had breakfast today or yesterday or ever =w=
-[LinkedIn] (https://www.linkedin.com/in/evin-oxley-aba612223/)
+[LinkedIn](https://www.linkedin.com/in/evin-oxley-aba612223/)
 /assets/images/Octocat.png
 
 My favourite games
