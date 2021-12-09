@@ -14,3 +14,6 @@ My favourite games
 - [ ] Add more images to website
 - [ ] Sort out wording on portfolio
 - [ ] Start on report
+
+Some code from GEC
+![Some code](https://github.com/EvinIkuyama/GECGit_2021-22/blob/master/Program15_starryOutput/Prog15_Code.PNG)
